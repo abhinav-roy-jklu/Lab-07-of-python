@@ -172,7 +172,9 @@ print("Alphabets:",a)
 print("Uppercase:",u)
 print("Lowercase:",l)
 print("Special characters:",sp)
-#Q12
+"""
+#12
+"""
 s=input("Enter a string: ")
 r=""
 for ch in s:
